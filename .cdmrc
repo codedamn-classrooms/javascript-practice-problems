@@ -1,2 +1,2 @@
 tabs: [sum-of-multiples.js]
-run-button: [node $$file]
+run-button: "node $$file"
