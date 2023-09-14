@@ -1,8 +1,9 @@
-//
-// This is only a SKELETON file for the 'Sum Of Multiples' exercise. It's been provided as a
-// convenience to get you started writing code faster.
-//
-
-export const sum = () => {
-  throw new Error('Remove this statement and implement this function');
+/**
+ * Calculates the energy points earned by the player.
+ * @param {number[]} magicalItems
+ * @param {number} level
+ * @returns {number} - Energy Points of the user
+ */
+export const getEnergyPoints = (magicalItems, level) => {
+	// write your code here
 };
