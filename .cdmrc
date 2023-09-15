@@ -1,1 +1,3 @@
-tabs: [phone-number.js]
+tabs:
+  - phone-number.js
+run-button: node $$file
