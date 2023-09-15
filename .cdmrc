@@ -1,1 +1,3 @@
-tabs: [rail-fence-cipher.js]
+tabs:
+  - rail-fence-cipher.js
+run-button: node $$file
