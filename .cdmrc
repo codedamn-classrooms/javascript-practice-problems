@@ -1,1 +1,3 @@
-tabs: [strain.js]
+tabs:
+  - strain.js
+run-button: node $$file
