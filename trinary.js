@@ -1,14 +1,30 @@
-//
-// This is only a SKELETON file for the 'Trinary' exercise. It's been provided as a
-// convenience to get you started writing code faster.
-//
-
+/**
+ * Class representing a trinary number.
+ */
 export class Trinary {
-  constructor() {
-    throw new Error('Remove this statement and implement this function');
-  }
+	/**
+	 * Create a number.
+	 * @param {string} trinaryNumber
+	 */
+	constructor(trinaryNumber) {
+		// Implement the Constructor
+	}
 
-  toDecimal() {
-    throw new Error('Remove this statement and implement this function');
-  }
+	/**
+	 * Get the decimal equivalent of the trinary number
+	 * @return {number} decimalNumber
+	 */
+	toDecimal() {
+		// Implement your method here
+		let decimalNumber;
+
+		return decimalNumber;
+	}
 }
+
+// Sample Test Cases
+const firstNumber = new Trinary("102012");
+console.log(firstNumber.toDecimal());
+
+const secondNumber = new Trinary("1211112");
+console.log(secondNumber.toDecimal());
