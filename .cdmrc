@@ -1,1 +1,3 @@
-tabs: [allergies.js]
+tabs:
+  - allergies.js
+run-button: node $$file
