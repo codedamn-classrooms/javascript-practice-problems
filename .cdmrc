@@ -1,1 +1,3 @@
-tabs: [acronym.js]
+tabs:
+  - acronym.js
+run-button: node $$file
