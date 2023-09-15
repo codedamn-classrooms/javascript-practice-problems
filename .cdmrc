@@ -1,1 +1,3 @@
-tabs: [circular-buffer.js]
+tabs:
+  - circular-buffer.js
+run-button: node $$file
