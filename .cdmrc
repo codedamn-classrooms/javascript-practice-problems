@@ -1,1 +1,3 @@
-tabs: [react.js]
+tabs:
+  - react.js
+run-button: node $$file
