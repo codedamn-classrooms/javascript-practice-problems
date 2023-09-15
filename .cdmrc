@@ -1,1 +1,3 @@
-tabs: [satellite.js]
+tabs:
+  - satellite.js
+run-button: node $$file
