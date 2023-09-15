@@ -1,1 +1,3 @@
-tabs: [sublist.js]
+tabs:
+  - sublist.js
+run-button: node $$file
