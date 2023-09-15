@@ -1,1 +1,3 @@
-tabs: [flatten-array.js]
+tabs:
+  - flatten-array.js
+run-button: node $$file
