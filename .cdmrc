@@ -1,1 +1,3 @@
-tabs: [robot-simulator.js]
+tabs:
+  - robot-simulator.js
+run-button: node $$file
