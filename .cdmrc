@@ -1,1 +1,3 @@
-tabs: [pangram.js]
+tabs:
+  - pangram.js
+run-button: node $$file
