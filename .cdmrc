@@ -1,1 +1,3 @@
-tabs: [zebra-puzzle.js]
+tabs:
+  - zebra-puzzle.js
+run-button: node $$file
