@@ -1,1 +1,3 @@
-tabs: [diamond.js]
+tabs:
+  - diamond.js
+run-button: node $$file
