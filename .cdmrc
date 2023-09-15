@@ -1,1 +1,3 @@
-tabs: [matrix.js]
+tabs:
+  - matrix.js
+run-button: node $$file
