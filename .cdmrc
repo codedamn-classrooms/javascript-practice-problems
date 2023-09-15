@@ -1,1 +1,3 @@
-tabs: [bowling.js]
+tabs:
+  - bowling.js
+run-button: node $$file
