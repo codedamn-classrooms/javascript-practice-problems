@@ -1,1 +1,3 @@
-tabs: [largest-series-product.js]
+tabs:
+  - largest-series-product.js
+run-button: node $$file
