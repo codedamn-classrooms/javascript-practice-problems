@@ -1,1 +1,3 @@
-tabs: [pythagorean-triplet.js]
+tabs:
+  - pythagorean-triplet.js
+run-button: node $$file
