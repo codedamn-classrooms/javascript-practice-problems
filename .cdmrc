@@ -1,1 +1,3 @@
-tabs: [difference-of-squares.js]
+tabs:
+  - difference-of-squares.js
+run-button: node $$file
