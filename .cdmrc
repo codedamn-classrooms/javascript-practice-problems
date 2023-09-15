@@ -1,1 +1,3 @@
-tabs: [anagram.js]
+tabs:
+  - anagram.js
+run-button: node $$file
