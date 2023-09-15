@@ -1,1 +1,3 @@
-tabs: [high-scores.js]
+tabs:
+  - high-scores.js
+run-button: node $$file
