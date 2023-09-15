@@ -1,1 +1,3 @@
-tabs: [scale-generator.js]
+tabs:
+  - scale-generator.js
+run-button: node $$file
