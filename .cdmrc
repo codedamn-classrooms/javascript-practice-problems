@@ -1,1 +1,3 @@
-tabs: [alphametics.js]
+tabs:
+  - alphametics.js
+run-button: node $$file
