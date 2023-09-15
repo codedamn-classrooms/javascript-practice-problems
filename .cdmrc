@@ -1,1 +1,3 @@
-tabs: [simple-linked-list.js]
+tabs:
+  - simple-linked-list.js
+run-button: node $$file
