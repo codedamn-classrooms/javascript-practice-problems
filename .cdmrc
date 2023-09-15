@@ -1,1 +1,3 @@
-tabs: [promises.js]
+tabs:
+  - promises.js
+run-button: node $$file
