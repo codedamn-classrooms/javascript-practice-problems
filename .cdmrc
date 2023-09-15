@@ -1,1 +1,3 @@
-tabs: [go-counting.js]
+tabs:
+  - go-counting.js
+run-button: node $$file
