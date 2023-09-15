@@ -1,1 +1,3 @@
-tabs: [octal.js]
+tabs:
+  - octal.js
+run-button: node $$file
