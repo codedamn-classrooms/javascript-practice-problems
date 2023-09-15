@@ -1,1 +1,3 @@
-tabs: [armstrong-numbers.js]
+tabs:
+  - armstrong-numbers.js
+run-button: node $$file
