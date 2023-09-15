@@ -1,1 +1,3 @@
-tabs: [grade-school.js]
+tabs:
+  - grade-school.js
+run-button: node $$file
