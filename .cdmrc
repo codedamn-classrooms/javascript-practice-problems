@@ -1,1 +1,3 @@
-tabs: [beer-song.js]
+tabs:
+  - beer-song.js
+run-button: node $$file
