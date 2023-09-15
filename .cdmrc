@@ -1,1 +1,3 @@
-tabs: [secret-handshake.js]
+tabs:
+  - secret-handshake.js
+run-button: node $$file
