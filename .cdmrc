@@ -1,1 +1,3 @@
-tabs: [house.js]
+tabs:
+  - house.js
+run-button: node $$file
