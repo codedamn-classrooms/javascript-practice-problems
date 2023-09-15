@@ -1,1 +1,3 @@
-tabs: [isogram.js]
+tabs:
+  - isogram.js
+run-button: node $$file
