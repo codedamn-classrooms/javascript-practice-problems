@@ -1,1 +1,3 @@
-tabs: [series.js]
+tabs:
+  - series.js
+run-button: node $$file
