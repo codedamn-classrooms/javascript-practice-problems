@@ -1,1 +1,3 @@
-tabs: [yacht.js]
+tabs:
+  - yacht.js
+run-button: node $$file
