@@ -1,1 +1,3 @@
-tabs: [atbash-cipher.js]
+tabs:
+  - atbash-cipher.js
+run-button: node $$file
