@@ -1,1 +1,3 @@
-tabs: [poker.js]
+tabs:
+  - poker.js
+run-button: node $$file
