@@ -1,1 +1,3 @@
-tabs: [two-fer.js]
+tabs:
+  - two-fer.js
+run-button: node $$file
