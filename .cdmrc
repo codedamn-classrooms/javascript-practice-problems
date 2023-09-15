@@ -1,1 +1,3 @@
-tabs: [affine-cipher.js]
+tabs:
+  - affine-cipher.js
+run-button: node $$file
