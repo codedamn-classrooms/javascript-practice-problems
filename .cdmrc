@@ -1,1 +1,3 @@
-tabs: [word-count.js]
+tabs:
+  - word-count.js
+run-button: node $$file
