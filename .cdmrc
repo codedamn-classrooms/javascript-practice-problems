@@ -1,1 +1,3 @@
-tabs: [bank-account.js]
+tabs:
+  - bank-account.js
+run-button: node $$file
