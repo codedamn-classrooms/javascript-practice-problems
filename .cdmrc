@@ -1,1 +1,3 @@
-tabs: [resistor-color.js]
+tabs:
+  - resistor-color.js
+run-button: node $$file
