@@ -1,1 +1,3 @@
-tabs: [protein-translation.js]
+tabs:
+  - protein-translation.js
+run-button: node $$file
