@@ -1,1 +1,3 @@
-tabs: [food-chain.js]
+tabs:
+  - food-chain.js
+run-button: node $$file
