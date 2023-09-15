@@ -1,1 +1,3 @@
-tabs: [knapsack.js]
+tabs:
+  - knapsack.js
+run-button: node $$file
