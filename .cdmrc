@@ -1,1 +1,3 @@
-tabs: [nth-prime.js]
+tabs:
+  - nth-prime.js
+run-button: node $$file
