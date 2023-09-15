@@ -1,1 +1,3 @@
-tabs: [transpose.js]
+tabs:
+  - transpose.js
+run-button: node $$file
