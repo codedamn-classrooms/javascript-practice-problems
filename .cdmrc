@@ -1,1 +1,3 @@
-tabs: [raindrops.js]
+tabs:
+  - raindrops.js
+run-button: node $$file
