@@ -1,1 +1,3 @@
-tabs: [trinary.js]
+tabs:
+  - trinary.js
+run-button: node $$file
