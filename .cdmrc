@@ -1,1 +1,3 @@
-tabs: [sieve.js]
+tabs:
+  - sieve.js
+run-button: node $$file
