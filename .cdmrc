@@ -1,1 +1,3 @@
-tabs: [change.js]
+tabs:
+  - change.js
+run-button: node $$file
