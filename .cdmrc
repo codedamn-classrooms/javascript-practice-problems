@@ -1,1 +1,3 @@
-tabs: [hamming.js]
+tabs:
+  - hamming.js
+run-button: node $$file
