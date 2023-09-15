@@ -1,1 +1,3 @@
-tabs: [square-root.js]
+tabs:
+  - square-root.js
+run-button: node $$file
