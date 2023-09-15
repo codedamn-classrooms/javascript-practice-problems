@@ -1,1 +1,3 @@
-tabs: [saddle-points.js]
+tabs:
+  - saddle-points.js
+run-button: node $$file
