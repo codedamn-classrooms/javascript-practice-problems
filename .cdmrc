@@ -1,1 +1,3 @@
-tabs: [space-age.js]
+tabs:
+  - space-age.js
+run-button: node $$file
