@@ -1,1 +1,3 @@
-tabs: [wordy.js]
+tabs:
+  - wordy.js
+run-button: node $$file
