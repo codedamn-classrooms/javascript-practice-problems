@@ -1,1 +1,3 @@
-tabs: [triangle.js]
+tabs:
+  - triangle.js
+run-button: node $$file
