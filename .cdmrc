@@ -1,1 +1,3 @@
-tabs: [custom-set.js]
+tabs:
+  - custom-set.js
+run-button: node $$file
