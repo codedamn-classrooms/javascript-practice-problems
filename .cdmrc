@@ -1,1 +1,3 @@
-tabs: [tournament.js]
+tabs:
+  - tournament.js
+run-button: node $$file
