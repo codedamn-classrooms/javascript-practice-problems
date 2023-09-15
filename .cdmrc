@@ -1,1 +1,3 @@
-tabs: [pascals-triangle.js]
+tabs:
+  - pascals-triangle.js
+run-button: node $$file
