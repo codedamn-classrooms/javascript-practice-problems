@@ -1,1 +1,3 @@
-tabs: [roman-numerals.js]
+tabs:
+  - roman-numerals.js
+run-button: node $$file
