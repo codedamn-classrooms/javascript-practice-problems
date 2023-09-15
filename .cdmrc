@@ -1,1 +1,3 @@
-tabs: [accumulate.js]
+tabs:
+  - accumulate.js
+run-button: node $$file
