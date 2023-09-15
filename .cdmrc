@@ -1,1 +1,3 @@
-tabs: [matching-brackets.js]
+tabs:
+  - matching-brackets.js
+run-button: node $$file
