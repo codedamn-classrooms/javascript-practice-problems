@@ -1,1 +1,3 @@
-tabs: [kindergarten-garden.js]
+tabs:
+  - kindergarten-garden.js
+run-button: node $$file
