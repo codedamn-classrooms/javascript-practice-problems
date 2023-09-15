@@ -1,1 +1,3 @@
-tabs: [bob.js]
+tabs:
+  - bob.js
+run-button: node $$file
