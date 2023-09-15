@@ -1,1 +1,3 @@
-tabs: [word-search.js]
+tabs:
+  - word-search.js
+run-button: node $$file
