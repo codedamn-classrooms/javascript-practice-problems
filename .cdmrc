@@ -1,1 +1,3 @@
-tabs: [minesweeper.js]
+tabs:
+  - minesweeper.js
+run-button: node $$file
