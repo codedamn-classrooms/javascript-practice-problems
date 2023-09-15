@@ -1,1 +1,3 @@
-tabs: [rational-numbers.js]
+tabs:
+  - rational-numbers.js
+run-button: node $$file
