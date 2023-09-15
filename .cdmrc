@@ -1,1 +1,3 @@
-tabs: [variable-length-quantity.js]
+tabs:
+  - variable-length-quantity.js
+run-button: node $$file
