@@ -1,1 +1,3 @@
-tabs: [proverb.js]
+tabs:
+  - proverb.js
+run-button: node $$file
