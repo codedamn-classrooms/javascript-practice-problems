@@ -1,1 +1,3 @@
-tabs: [dnd-character.js]
+tabs:
+  - dnd-character.js
+run-button: node $$file
