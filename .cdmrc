@@ -1,1 +1,3 @@
-tabs: [etl.js]
+tabs:
+  - etl.js
+run-button: node $$file
