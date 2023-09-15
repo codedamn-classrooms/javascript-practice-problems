@@ -1,1 +1,3 @@
-tabs: [nucleotide-count.js]
+tabs:
+  - nucleotide-count.js
+run-button: node $$file
