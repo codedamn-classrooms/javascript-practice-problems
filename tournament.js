@@ -38,6 +38,7 @@ Blithering Badgers;Devastating Donkeys;loss
 Allegoric Alaskans;Courageous Californians;win`)
 );
 // Test Case 2
+console.log("\n\n\n");
 console.log(
 	tournamentTally(
 		`Courageous Californians;Devastating Donkeys;win
