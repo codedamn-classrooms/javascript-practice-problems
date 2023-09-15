@@ -1,1 +1,3 @@
-tabs: [list-ops.js]
+tabs:
+  - list-ops.js
+run-button: node $$file
