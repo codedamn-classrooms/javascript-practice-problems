@@ -1,1 +1,3 @@
-tabs: [crypto-square.js]
+tabs:
+  - crypto-square.js
+run-button: node $$file
