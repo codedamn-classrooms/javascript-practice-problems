@@ -1,1 +1,3 @@
-tabs: [prime-factors.js]
+tabs:
+  - prime-factors.js
+run-button: node $$file
