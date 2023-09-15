@@ -1,1 +1,3 @@
-tabs: [ocr-numbers.js]
+tabs:
+  - ocr-numbers.js
+run-button: node $$file
