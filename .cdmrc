@@ -1,1 +1,3 @@
-tabs: [isbn-verifier.js]
+tabs:
+  - isbn-verifier.js
+run-button: node $$file
