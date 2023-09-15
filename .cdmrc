@@ -1,1 +1,3 @@
-tabs: [darts.js]
+tabs:
+  - darts.js
+run-button: node $$file
