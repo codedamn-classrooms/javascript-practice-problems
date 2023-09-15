@@ -1,8 +1,12 @@
-//
-// This is only a SKELETON file for the 'Two fer' exercise. It's been provided as a
-// convenience to get you started writing code faster.
-//
-
+/**
+ * returns  a string
+ * @param {string} name - A name of a person
+ * @returns {string} twoFer - "a one for me one for you" string
+ */
 export const twoFer = () => {
-  throw new Error('Remove this statement and implement this function');
+	// write your code here
 };
+
+// Sample Test Cases
+console.log(twoFer("Alice"));
+console.log(twoFer());
