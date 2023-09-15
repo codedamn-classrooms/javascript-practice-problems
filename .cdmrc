@@ -1,1 +1,3 @@
-tabs: [perfect-numbers.js]
+tabs:
+  - perfect-numbers.js
+run-button: node $$file
