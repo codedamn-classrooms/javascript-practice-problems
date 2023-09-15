@@ -1,1 +1,3 @@
-tabs: [run-length-encoding.js]
+tabs:
+  - run-length-encoding.js
+run-button: node $$file
