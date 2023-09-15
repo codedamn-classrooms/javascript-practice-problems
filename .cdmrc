@@ -1,1 +1,3 @@
-tabs: [connect.js]
+tabs:
+  - connect.js
+run-button: node $$file
