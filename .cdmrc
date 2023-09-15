@@ -1,1 +1,3 @@
-tabs: [luhn.js]
+tabs:
+  - luhn.js
+run-button: node $$file
