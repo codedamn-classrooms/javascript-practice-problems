@@ -1,1 +1,3 @@
-tabs: [grains.js]
+tabs:
+  - grains.js
+run-button: node $$file
