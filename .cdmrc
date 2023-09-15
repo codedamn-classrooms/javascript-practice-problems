@@ -1,1 +1,3 @@
-tabs: [hexadecimal.js]
+tabs:
+  - hexadecimal.js
+run-button: node $$file
