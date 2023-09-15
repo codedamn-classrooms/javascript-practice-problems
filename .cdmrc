@@ -1,1 +1,3 @@
-tabs: [pig-latin.js]
+tabs:
+  - pig-latin.js
+run-button: node $$file
