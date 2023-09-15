@@ -1,1 +1,3 @@
-tabs: [meetup.js]
+tabs:
+  - meetup.js
+run-button: node $$file
