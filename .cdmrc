@@ -1,1 +1,3 @@
-tabs: [rotational-cipher.js]
+tabs:
+  - rotational-cipher.js
+run-button: node $$file
