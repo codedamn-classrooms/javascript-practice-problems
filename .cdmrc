@@ -1,1 +1,3 @@
-tabs: [reverse-string.js]
+tabs:
+  - reverse-string.js
+run-button: node $$file
