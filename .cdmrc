@@ -1,1 +1,3 @@
-tabs: [spiral-matrix.js]
+tabs:
+  - spiral-matrix.js
+run-button: node $$file
