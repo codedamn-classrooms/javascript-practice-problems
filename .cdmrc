@@ -1,1 +1,3 @@
-tabs: [gigasecond.js]
+tabs:
+  - gigasecond.js
+run-button: node $$file
