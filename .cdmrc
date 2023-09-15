@@ -1,1 +1,3 @@
-tabs: [rna-transcription.js]
+tabs:
+  - rna-transcription.js
+run-button: node $$file
