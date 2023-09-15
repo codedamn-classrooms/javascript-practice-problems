@@ -1,1 +1,3 @@
-tabs: [diffie-hellman.js]
+tabs:
+  - diffie-hellman.js
+run-button: node $$file
