@@ -1,1 +1,3 @@
-tabs: [twelve-days.js]
+tabs:
+  - twelve-days.js
+run-button: node $$file
