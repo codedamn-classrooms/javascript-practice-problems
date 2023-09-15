@@ -1,1 +1,3 @@
-tabs: [palindrome-products.js]
+tabs:
+  - palindrome-products.js
+run-button: node $$file
