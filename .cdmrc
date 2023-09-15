@@ -1,1 +1,3 @@
-tabs: [complex-numbers.js]
+tabs:
+  - complex-numbers.js
+run-button: node $$file
