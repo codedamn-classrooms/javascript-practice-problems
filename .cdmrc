@@ -1,1 +1,3 @@
-tabs: [binary-search-tree.js]
+tabs:
+  - binary-search-tree.js
+run-button: node $$file
