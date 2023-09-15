@@ -1,1 +1,3 @@
-tabs: [two-bucket.js]
+tabs:
+  - two-bucket.js
+run-button: node $$file
