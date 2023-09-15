@@ -1,1 +1,3 @@
-tabs: [queen-attack.js]
+tabs:
+  - queen-attack.js
+run-button: node $$file
