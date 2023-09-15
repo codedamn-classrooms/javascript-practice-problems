@@ -1,1 +1,3 @@
-tabs: [rectangles.js]
+tabs:
+  - rectangles.js
+run-button: node $$file
