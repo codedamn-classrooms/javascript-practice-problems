@@ -1,1 +1,3 @@
-tabs: [leap.js]
+tabs:
+  - leap.js
+run-button: node $$file
