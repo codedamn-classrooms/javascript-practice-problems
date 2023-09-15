@@ -1,1 +1,3 @@
-tabs: [scrabble-score.js]
+tabs:
+  - scrabble-score.js
+run-button: node $$file
