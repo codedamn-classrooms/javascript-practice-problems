@@ -1,1 +1,3 @@
-tabs: [rest-api.js]
+tabs:
+  - rest-api.js
+run-button: node $$file
