@@ -1,1 +1,3 @@
-tabs: [forth.js]
+tabs:
+  - forth.js
+run-button: node $$file
