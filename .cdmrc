@@ -1,1 +1,3 @@
-tabs: [collatz-conjecture.js]
+tabs:
+  - collatz-conjecture.js
+run-button: node $$file
