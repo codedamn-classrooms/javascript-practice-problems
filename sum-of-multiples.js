@@ -9,5 +9,6 @@ export const getEnergyPoints = (magicalItems, level) => {
 };
 
 // Sample Tests
-console.log(getEnergyPoints([3, 5], 20));
-console.log(getEnergyPoints([0], 1));
+console.log(getEnergyPoints([3, 5], 20)); // Expected Output: 78
+console.log(getEnergyPoints([3, 5, 8, 12], 24)); // Expected Output: 143
+console.log(getEnergyPoints([0], 1)); // Expected Output: 0
